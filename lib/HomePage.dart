@@ -52,6 +52,22 @@ class HomePage extends StatelessWidget {
                           fontSize: MediaQuery.of(context).size.height * 0.03,
                           fontStyle: FontStyle.italic),
                     ),
+                    Text(
+                      "Contact-us : +91 8586874112",
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                          color: Colors.black38,
+                          fontSize: MediaQuery.of(context).size.height * 0.03,
+                          fontStyle: FontStyle.italic),
+                    ),
+                    Text(
+                      "Email :- mohammadaltamashusain@gmail.com",
+                      textAlign: TextAlign.center,
+                      style: TextStyle(
+                          color: Colors.black38,
+                          fontSize: MediaQuery.of(context).size.height * 0.03,
+                          fontStyle: FontStyle.italic),
+                    ),
                   ],
                 ),
               ),
